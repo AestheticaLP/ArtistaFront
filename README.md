@@ -9,35 +9,15 @@
   <img src="https://img.shields.io/badge/NativeWind-2.0.11-8C66E5.svg" alt="NativeWind">
 </p>
 
-
-
 <a href="https://github.com/AestheticaLP/ArtistaFront">
-  <img src="https://img.shields.io/badge/Front-100000?style=for-the-badge&logo=github&logoColor=white" alt="React-Native">
+  <img src="https://img.shields.io/badge/FrontEnd-100000?style=for-the-badge&logo=github&logoColor=white" alt="React-Native">
 </a>
 <a href="https://github.com/AestheticaLP/ArtistaBack">
-  <img src="https://img.shields.io/badge/Back-100000?style=for-the-badge&logo=github&logoColor=white" alt="React-Native">
+  <img src="https://img.shields.io/badge/BackEnd-100000?style=for-the-badge&logo=github&logoColor=white" alt="React-Native">
 </a>
 <a href="https://github.com/AestheticaLP/ArtistaBack">
   <img src="https://user-images.githubusercontent.com/60774334/215728784-c1d4fe90-08ac-4b4e-8cb9-d941d62c559b.svg" alt="React-Native">
 </a>
-
-
-
-
-## Configuration ⚙️
-![react-native-0 71 1](https://user-images.githubusercontent.com/60774334/215728784-c1d4fe90-08ac-4b4e-8cb9-d941d62c559b.svg)
-
-```
-React-Native 0.71.1
-React        18.2.0
-TypeScript   4.8.4 
-Nativewind   2.0.11
-Tailwindcss  3.2.4
-Eslint       8.33.0
-Prettier     2.4.1
- ```
- <br />
- 
 
 ## Documentation 📚
 <a href="https://reactnative.dev/docs/getting-started">
