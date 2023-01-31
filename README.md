@@ -18,6 +18,7 @@ Eslint       8.33.0
 Prettier     2.4.1
  ```
  <br />
+ 
 
 ## Documentation 📚
 <a href="https://reactnative.dev/docs/getting-started">
