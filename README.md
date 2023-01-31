@@ -1,4 +1,4 @@
-# ProjetArtistaApp
+![image](https://user-images.githubusercontent.com/60774334/215721384-a3f9c1e1-85f2-4bfc-9dfb-1b25cfa49a06.png)
 
 <a href="https://gitmoji.dev">
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
