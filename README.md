@@ -27,7 +27,7 @@ Prettier     2.4.1
 </a>
 <br />
 <a href="https://nativewind.dev">
-  <img src="https://img.shields.io/badge/Tailwind_UI-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="NativeWind">
+  <img src="https://img.shields.io/badge/TNativeWind-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="NativeWind">
 </a>
 <br />
 <a href="https://tailwindcss.com/docs/utility-first">
