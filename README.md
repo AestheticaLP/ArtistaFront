@@ -2,13 +2,13 @@
   <img src="https://user-images.githubusercontent.com/60774334/215721384-a3f9c1e1-85f2-4bfc-9dfb-1b25cfa49a06.png" />
 </p>
 
-<a href="https://gitmoji.dev">
-  <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
+<a href="https://github.com/AestheticaLP/ArtistaFront">
+  <img src="https://img.shields.io/badge/Front-100000?style=for-the-badge&logo=github&logoColor=white" alt="React-Native">
+</a>
+<a href="https://github.com/AestheticaLP/ArtistaBack">
+  <img src="https://img.shields.io/badge/Front-100000?style=for-the-badge&logo=github&logoColor=white" alt="React-Native">
 </a>
 
-<a href="https://github.com/AestheticaLP/ArtistaFront">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="React-Native">
-</a>
 
 ## Configuration ⚙️
 
