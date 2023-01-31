@@ -6,6 +6,10 @@
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
 </a>
 
+<a href="https://github.com/AestheticaLP/ArtistaFront">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="React-Native">
+</a>
+
 ## Configuration ⚙️
 
 ```
