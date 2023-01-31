@@ -70,6 +70,3 @@ npm run android
 ```sh
 npm start
 ```
-```sh
-Press r
-```
