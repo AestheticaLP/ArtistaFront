@@ -1,3 +1,10 @@
+<a href="https://github.com/AestheticaLP/ArtistaFront">
+  <img src="https://img.shields.io/badge/FrontEnd-100000?style=for-the-badge&logo=github&logoColor=white" alt="React-Native">
+</a>
+<a href="https://github.com/AestheticaLP/ArtistaBack">
+  <img src="https://img.shields.io/badge/BackEnd-100000?style=for-the-badge&logo=github&logoColor=white" alt="React-Native">
+</a>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/60774334/215721384-a3f9c1e1-85f2-4bfc-9dfb-1b25cfa49a06.png" />
 </p>
@@ -8,16 +15,6 @@
   <img src="https://img.shields.io/badge/TypeScript-4.8.4-8C66E5.svg" alt="TypeScript">
   <img src="https://img.shields.io/badge/NativeWind-2.0.11-8C66E5.svg" alt="NativeWind">
 </p>
-
-<a href="https://github.com/AestheticaLP/ArtistaFront">
-  <img src="https://img.shields.io/badge/FrontEnd-100000?style=for-the-badge&logo=github&logoColor=white" alt="React-Native">
-</a>
-<a href="https://github.com/AestheticaLP/ArtistaBack">
-  <img src="https://img.shields.io/badge/BackEnd-100000?style=for-the-badge&logo=github&logoColor=white" alt="React-Native">
-</a>
-<a href="https://github.com/AestheticaLP/ArtistaBack">
-  <img src="https://user-images.githubusercontent.com/60774334/215728784-c1d4fe90-08ac-4b4e-8cb9-d941d62c559b.svg" alt="React-Native">
-</a>
 
 ## Documentation 📚
 <a href="https://reactnative.dev/docs/getting-started">
