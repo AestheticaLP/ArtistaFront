@@ -7,14 +7,13 @@
 ## Configuration ⚙️
 
 ```
- MYSQL       8.0.30
- PHP         8.0.2 
- LARAVEL     9.36.2
- LIVEWIRE    2.10 
- TAILWIND    3.1.8
- PHPINSIGHTS 2.6.0
- PEST        1.22.1
- PHPUNIT     9.5.25
+React-Native 0.71.1
+React        18.2.0
+TypeScript   4.8.4 
+Nativewind   2.0.11
+Tailwindcss  3.2.4
+Eslint       8.33.0
+Prettier     2.4.1
  ```
  <br />
 
