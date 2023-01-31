@@ -5,7 +5,7 @@
 ### Clone the project 📋
 In ssh
 ```bash
-git clone git@github.com:AestheticaLP/Artista.git
+git clone git@github.com:AestheticaLP/ArtistaFront.git
 ```
 
 ### Go the project folder 📂
