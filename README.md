@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/60774334/215721384-a3f9c1e1-85f2-4bfc-9dfb-1b25cfa49a06.png" />
 </p>
 
-<img src="https://img.shields.io/badge/React-Native-0.71.1-1f425f.svg" alt="React-Native">
+<img src="https://img.shields.io/badge/ReactNative-0.71.1-1f425f.svg" alt="React-Native">
 <img src="https://img.shields.io/badge/React-18.2.0-1f425f.svg" alt="React-Native">
 <img src="https://img.shields.io/badge/NativeWind-2.0.11-1f425f.svg" alt="React-Native">
 <img src="https://img.shields.io/badge/Eslint-8.33.0-1f425f.svg" alt="React-Native">
