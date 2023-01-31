@@ -2,6 +2,8 @@
 
 ![Contributor](https://contrib.rocks/image?repo=AestheticaLP/ArtistaFront)
 
+[![Build Status](https://travis-ci.com/username/repo.svg?branch=main)](https://travis-ci.com/AestheticaLP/ArtistaFront)
+
 <a href="https://gitmoji.dev">
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
 </a>
