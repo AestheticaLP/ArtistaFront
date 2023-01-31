@@ -1,6 +1,6 @@
 # ProjetArtistaApp
 
-![Your Repository's Stats](https://contrib.rocks/image?repo=ArtistaFront)
+![Your Repository's Stats](https://contrib.rocks/image?repo=AestheticaLP/ArtistaFront)
 
 <a href="https://gitmoji.dev">
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
