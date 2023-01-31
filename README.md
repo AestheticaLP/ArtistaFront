@@ -1,5 +1,7 @@
 # ProjetArtistaApp
 
+![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
+
 <a href="https://gitmoji.dev">
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
 </a>
