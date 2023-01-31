@@ -42,7 +42,9 @@ Prettier     2.4.1
 ## How to launch the project 🚀
 ### Clone the project 📋
 In ssh
-![image](https://user-images.githubusercontent.com/60774334/215720785-8d1f94a5-9ba0-4c6b-bfa8-49e0d48c5dd5.png)
+```sh
+git clone git@github.com:AestheticaLP/ArtistaFront.git
+```
 
 ### Go the project folder 📂
 ```bash
