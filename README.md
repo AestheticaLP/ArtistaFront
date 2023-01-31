@@ -18,32 +18,24 @@ Prettier     2.4.1
  <br />
 
 ## Documentation 📚
-<a href="https://laravel.com/docs/9.x">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+<a href="https://reactnative.dev/docs/getting-started">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React-Native">
 </a>
 <br />
-<a href="https://laravel-livewire.com/docs/2.x/quickstart">
-  <img src="https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire">
+<a href="https://beta.reactjs.org">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 </a>
 <br />
-<a href="https://tailwindui.com/documentation">
-  <img src="https://img.shields.io/badge/Tailwind_UI-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwindui">
+<a href="https://nativewind.dev">
+  <img src="https://img.shields.io/badge/Tailwind_UI-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="NativeWind">
 </a>
 <br />
 <a href="https://tailwindcss.com/docs/utility-first">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwindcss">
 </a>
 <br />
-<a href="https://flowbite.com/docs/getting-started/introduction">
-  <img src="https://img.shields.io/badge/Flowbite-252e42?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Flowbite">
-</a>
-<br />
-<a href="https://phpinsights.com/get-started.html#within-laravel">
-  <img src="https://img.shields.io/badge/PhpInsights-4abf8a?style=for-the-badge&logo=php&logoColor=white" alt="PhpInsights">
-</a>
-<br />
-<a href="https://pestphp.com/docs/installation">
-  <img src="https://img.shields.io/badge/PhpPest-f472b6?style=for-the-badge&logo=php&logoColor=white" alt="Pest">
+<a href="https://eslint.org/docs/latest/use/getting-started">
+  <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="Eslint">
 </a>
 
 ## How to launch the project 🚀
