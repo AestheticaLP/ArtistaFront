@@ -4,9 +4,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/ReactNative-0.71.1-1f425f.svg" alt="React-Native">
-  <img src="https://img.shields.io/badge/React-18.2.0-1f425f.svg" alt="React-Native">
-  <img src="https://img.shields.io/badge/NativeWind-2.0.11-1f425f.svg" alt="React-Native">
-  <img src="https://img.shields.io/badge/Eslint-8.33.0-1f425f.svg" alt="React-Native">
+  <img src="https://img.shields.io/badge/React-18.2.0-1f425f.svg" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-4.8.4-1f425f.svg" alt="TypeScript">
+  <img src="https://img.shields.io/badge/NativeWind-2.0.11-1f425f.svg" alt="NativeWind">
+  <img src="https://img.shields.io/badge/Eslint-8.33.0-1f425f.svg" alt="Eslint">
 </p>
 
 
