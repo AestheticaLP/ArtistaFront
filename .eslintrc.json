@@ -5,6 +5,8 @@
   "ignorePatterns": ["__tests__/App-test.tsx"],
   "rules": {
     "import/no-unresolved": 0,
+    "indent": "off",
+    "react/jsx-indent": "off",
     "react/jsx-filename-extension": [1, {
       "extensions": [
         ".jsx",
