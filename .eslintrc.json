@@ -2,6 +2,7 @@
   "extends": ["airbnb"],
   "plugins": ["@typescript-eslint", "react"],
   "parser": "@typescript-eslint/parser",
+  "ignorePatterns": ["__tests__/App-test.tsx"],
   "rules": {
     "import/no-unresolved": 0,
     "react/jsx-filename-extension": [1, {
