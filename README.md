@@ -1,7 +1,7 @@
 # ProjetArtistaApp
 
 <a href="https://reactnative.dev/docs/getting-started">
-  <img src="https://img.shields.io/github/issues/AestheticaLP/ArtistaFront.svg" alt="React-Native">
+  <img src="https://contrib.rocks/image?repo=AestheticaLP/ArtistaFront" alt="React-Native">
 </a>
 
 <a href="https://gitmoji.dev">
