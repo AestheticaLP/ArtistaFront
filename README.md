@@ -3,7 +3,7 @@
 <p>
   <img src="https://img.shields.io/github/issues/AestheticaLP/Artistafront.svg">
   <img src="https://img.shields.io/github/issues-pr/AestheticaLP/Artistafront.svg">
-  <img src="https://github.com/AestheticaLP/ArtistaBack/actions/workflows/main.yml/badge.svg">
+  <img src="https://github.com/AestheticaLP/ArtistaFront/actions/workflows/eslint.yml/badge.svg">
 </p>
 
 <p align="right">
