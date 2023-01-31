@@ -1,6 +1,6 @@
 # ProjetArtistaApp
 
-## Cmds to launch the project 🚀
+## How to launch the project 🚀
 
 ### Clone the project 📋
 In ssh
