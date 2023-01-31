@@ -1,9 +1,5 @@
 # ProjetArtistaApp
 
-![Contributor](https://contrib.rocks/image?repo=AestheticaLP/ArtistaFront)
-
-![example branch parameter](https://github.com/github/docs/actions/workflows/eslint.yml/badge.svg?branch=main)
-
 <a href="https://gitmoji.dev">
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
 </a>
