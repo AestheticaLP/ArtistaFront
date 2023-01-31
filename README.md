@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/NativeWind-2.0.11-8C66E5.svg" alt="NativeWind">
 </p>
 
-## Contributeurs 👨
+## Contributeurs 🤵 👩‍💼
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=AestheticaLP/Artistafront)
 
 ## Documentation 📚
