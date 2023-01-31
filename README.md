@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Front-100000?style=for-the-badge&logo=github&logoColor=white" alt="React-Native">
 </a>
 <a href="https://github.com/AestheticaLP/ArtistaBack">
-  <img src="https://img.shields.io/badge/Front-100000?style=for-the-badge&logo=github&logoColor=white" alt="React-Native">
+  <img src="https://img.shields.io/badge/Back-100000?style=for-the-badge&logo=github&logoColor=white" alt="React-Native">
 </a>
 
 
