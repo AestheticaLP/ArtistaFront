@@ -8,6 +8,7 @@
 <a href="https://github.com/AestheticaLP/ArtistaBack">
   <img src="https://img.shields.io/badge/Back-100000?style=for-the-badge&logo=github&logoColor=white" alt="React-Native">
 </a>
+![react-native-0 71 1](https://user-images.githubusercontent.com/60774334/215728634-510bb601-f0d3-4209-a687-28df465c3a24.png)
 
 
 ## Configuration ⚙️
