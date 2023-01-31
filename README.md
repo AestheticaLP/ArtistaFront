@@ -1,6 +1,8 @@
 # ProjetArtistaApp
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azawoodyy&count_private=true)
+<a href="https://reactnative.dev/docs/getting-started">
+  <img src="https://img.shields.io/github/issues/azawoodyy/artistafront.svg" alt="React-Native">
+</a>
 
 <a href="https://gitmoji.dev">
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
