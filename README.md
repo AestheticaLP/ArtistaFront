@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/React-18.2.0-8C66E5.svg" alt="React">
   <img src="https://img.shields.io/badge/TypeScript-4.8.4-8C66E5.svg" alt="TypeScript">
   <img src="https://img.shields.io/badge/NativeWind-2.0.11-8C66E5.svg" alt="NativeWind">
-  <img src="https://img.shields.io/badge/Eslint-8.33.0-8C66E5.svg" alt="Eslint">
 </p>
 
 
