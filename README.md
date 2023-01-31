@@ -1,5 +1,11 @@
 <h1 align="center">Artista FrontEnd</h1>
 
+<p>
+  <img src="https://img.shields.io/github/issues/AestheticaLP/Artistafront.svg">
+  <img src="https://img.shields.io/github/issues-pr/AestheticaLP/Artistafront.svg">
+  <img src="https://github.com/AestheticaLP/ArtistaBack/actions/workflows/main.yml/badge.svg">
+</p>
+
 <p align="right">
   <a href="https://github.com/AestheticaLP/ArtistaFront">
     <img src="https://img.shields.io/badge/FrontEnd-100000?style=for-the-badge&logo=github&logoColor=white" alt="React-Native">
@@ -19,6 +25,9 @@
   <img src="https://img.shields.io/badge/TypeScript-4.8.4-8C66E5.svg" alt="TypeScript">
   <img src="https://img.shields.io/badge/NativeWind-2.0.11-8C66E5.svg" alt="NativeWind">
 </p>
+
+## Contributeurs 👨
+![GitHub Contributors Image](https://contrib.rocks/image?repo=AestheticaLP/Artistafront)
 
 ## Documentation 📚
 <a href="https://reactnative.dev/docs/getting-started">
