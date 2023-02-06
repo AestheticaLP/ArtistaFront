@@ -13,7 +13,7 @@ function HomeContent(props: HomeContentProps): ReactElement {
 
 	return (
         <View>
-            <StyledText className="text-emerald-500">
+            <StyledText className="text-emerald-500 font-[Roboto-Black]">
                 {title}
             </StyledText>
         </View>
