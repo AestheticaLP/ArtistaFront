@@ -4,6 +4,7 @@
   "parser": "@typescript-eslint/parser",
   "ignorePatterns": ["__tests__/App-test.tsx"],
   "rules": {
+    "linebreak-style": 0,
     "import/no-unresolved": 0,
     "no-tabs": 0,
     "import/no-extraneous-dependencies": 0,
