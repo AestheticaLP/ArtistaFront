@@ -6,13 +6,12 @@
   "rules": {
     "import/no-unresolved": 0,
     "no-tabs": 0,
+    "import/no-extraneous-dependencies": 0,
     "indent": "off",
     "react/jsx-indent": "off",
-    "react/jsx-filename-extension": [1, {
-      "extensions": [
-        ".jsx",
-        ".tsx"
-      ]
+    "react/jsx-filename-extension": [0, { "allow": "as-needed" }],
+    "import/extensions": [0, {
+      "extension": "never"
     }]
   }
 }
