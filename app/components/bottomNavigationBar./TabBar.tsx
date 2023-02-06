@@ -1,14 +1,8 @@
 /* eslint-disable react/no-array-index-key */
 /* eslint-disable no-nested-ternary */
 import React, { ReactElement } from 'react';
-import {
-    View, Pressable,
-} from 'react-native';
 import { Home, MessageCircle, User } from 'lucide-react-native';
-import { styled } from 'nativewind';
-
-const StyledView = styled(View);
-const StyledPressable = styled(Pressable);
+import { StyledView, StyledPressable } from '../StyledComponents';
 
 function TabBar({ state, descriptors, navigation }: any): ReactElement {
     return (

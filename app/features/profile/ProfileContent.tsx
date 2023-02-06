@@ -1,34 +1,12 @@
-import { useNavigation } from '@react-navigation/native';
-import { styled } from 'nativewind';
 import React, { ReactElement } from 'react';
-import { View, Text, Pressable } from 'react-native';
-import { RootStackParamList } from '../../types/StackParamList';
+import ProfilePreview from '../../components/ProfilePreview';
+import { StyledView } from '../../components/StyledComponents';
 
-const StyledText = styled(Text);
-
-type ProfileContentProps = {
-    title: string;
-};
-
-function ProfileContent(props: ProfileContentProps): ReactElement {
-    const navigation = useNavigation<RootStackParamList>();
-    const { title } = props;
-
-	return (
-        <View>
-            <StyledText className="text-emerald-500">
-                {title}
-            </StyledText>
-            <Pressable
-              onPress={() => {
-                    navigation.navigate('Messages');
-                }}
-            >
-                <StyledText className="text-blue-500">
-                    Go to Messages
-                </StyledText>
-            </Pressable>
-        </View>
+function ProfileContent(): ReactElement {
+    return (
+        <StyledView>
+            <ProfilePreview name="Enzo le zozo" position="Bezziers, Connecticut" pfp="https://reactnative.dev/img/tiny_logo.png" />
+        </StyledView>
 	);
 }
 

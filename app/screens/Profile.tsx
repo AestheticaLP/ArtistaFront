@@ -8,7 +8,7 @@ function Profile(): ReactElement {
 	return (
         <View>
             <ProfileHeader title="Profile Header" />
-            <ProfileContent title="Profile Content" />
+            <ProfileContent />
             <ProfileFooter title="Profile Footer" />
         </View>
 	);

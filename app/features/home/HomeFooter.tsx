@@ -1,8 +1,6 @@
-import { styled } from 'nativewind';
 import React, { ReactElement } from 'react';
-import { View, Text } from 'react-native';
-
-const StyledText = styled(Text);
+import { View } from 'react-native';
+import { StyledText } from '../../components/StyledComponents';
 
 type HomeFooterProps = {
     title: string;

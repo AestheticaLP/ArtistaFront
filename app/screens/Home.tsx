@@ -1,11 +1,8 @@
 import React, { ReactElement } from 'react';
-import { View } from 'react-native';
-import { styled } from 'nativewind';
 import HomeHeader from '../features/home/HomeHeader';
 import HomeContent from '../features/home/HomeContent';
 import HomeFooter from '../features/home/HomeFooter';
-
-const StyledView = styled(View);
+import { StyledView } from '../components/StyledComponents';
 
 function Home(): ReactElement {
 	return (
