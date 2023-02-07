@@ -1,4 +1,3 @@
-import { styled } from 'nativewind';
 import React, { ReactElement } from 'react';
 import BouncyCheckbox from 'react-native-bouncy-checkbox';
 
@@ -8,21 +7,33 @@ type CheckBoxProps = {
     onPress(): void;
 };
 
-const StyledCheckBox = styled(BouncyCheckbox, { classProps: ['iconStyle'] });
-
 function CheckBox(props: CheckBoxProps): ReactElement {
     const { checked, onPress, rounded } = props;
 
     return (
-        <StyledCheckBox
+        <BouncyCheckbox
             disableBuiltInState
-            size={32}
-            iconStyle={`
-                w-9 h-9 shadow-lg shadow-violet-500 border-violet-500
-                ${rounded ? 'rounded-full' : 'rounded-lg'}
-                ${checked ? 'bg-violet-500 p-0.5' : 'bg-neutral-50 border-2'}
-            `}
+            size={30}
+            iconStyle={{
+                shadowColor: '#8b5cf6',
+                shadowOffset: {
+                    width: 0,
+                    height: 2,
+                },
+                shadowOpacity: 0.25,
+                shadowRadius: 3.84,
+                elevation: 5,
+                borderRadius: rounded ? 100 : 8,
+                borderColor: '#8b5cf6',
+                borderWidth: 2,
+                backgroundColor: checked ? '#8b5cf6' : '#fafafa',
+            }}
             isChecked={checked}
+            style={{
+                width: 30,
+                backgroundColor: checked ? '#8b5cf6' : '#fafafa',
+                borderRadius: rounded ? 100 : 8,
+            }}
             unfillColor="transparent"
             fillColor="transparent"
             onPress={onPress}
