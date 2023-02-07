@@ -1,8 +1,9 @@
 import React, { ReactElement } from 'react';
 import { useNavigation } from '@react-navigation/native';
-import { StyledPressable, StyledText, StyledView } from '../../components/StyledComponents';
+
+import { StyledText, StyledView } from '../../components/StyledComponents';
 import { RootStackParamList } from '../../types/StackParamList';
-import TagChip from '../../components/TagChip';
+import Button from '../../components/Button';
 
 type HomeContentProps = {
     title: string;
@@ -17,15 +18,7 @@ function HomeContent(props: HomeContentProps): ReactElement {
             <StyledText className="text-emerald-500 font-[Roboto-Black]">
                 {title}
             </StyledText>
-            <StyledPressable
-                className="bg-emerald-500 rounded-2xl p-3"
-                onPress={() => navigation.navigate('Messages')}
-            >
-                <StyledText className="text-white font-[Roboto-Black]">
-                    Press me
-                </StyledText>
-            </StyledPressable>
-            <TagChip content="Rap" />
+            <Button content="Messages" type="secondary" onPress={() => navigation.navigate('Messages')} />
         </StyledView>
 	);
 }
