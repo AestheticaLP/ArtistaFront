@@ -13,7 +13,7 @@ function App(): ReactElement {
 	return (
 	<NavigationContainer>
 		<Stack.Navigator screenOptions={{ headerShown: false }}>
-			<Stack.Screen name="StackApp" component={BottomNavigator} />
+			<Stack.Screen name="BottomNavigator" component={BottomNavigator} />
 			<Stack.Screen name="Home" component={Home} />
 			<Stack.Screen name="Profile" component={Profile} />
 			<Stack.Screen name="Messages" component={Messages} />
