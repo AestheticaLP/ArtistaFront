@@ -4,9 +4,9 @@
 /* eslint-disable no-mixed-spaces-and-tabs */
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import React, { ReactElement } from 'react';
-import Home from '../screens/Home';
-import Profile from '../screens/Profile';
-import Messages from '../screens/Messages/Messages';
+import Home from '../../screens/Home';
+import Profile from '../../screens/Profile';
+import Messages from '../../screens/Messages/Messages';
 import TabBar from './TabBar';
 
 const BottomTabNavigator = createBottomTabNavigator();

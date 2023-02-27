@@ -5,7 +5,7 @@ import Profile from './app/screens/Profile';
 import Home from './app/screens/Home';
 import Messages from './app/screens/Messages/Messages';
 import { RootStackParamList } from './app/types/StackParamList';
-import BottomNavigator from './app/components/BottomNavigator';
+import BottomNavigator from './app/components/bottomNavigationBar./BottomNavigator';
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
 
@@ -13,7 +13,7 @@ function App(): ReactElement {
 	return (
 	<NavigationContainer>
 		<Stack.Navigator screenOptions={{ headerShown: false }}>
-			<Stack.Screen name="StackApp" component={BottomNavigator} />
+			<Stack.Screen name="BottomNavigator" component={BottomNavigator} />
 			<Stack.Screen name="Home" component={Home} />
 			<Stack.Screen name="Profile" component={Profile} />
 			<Stack.Screen name="Messages" component={Messages} />

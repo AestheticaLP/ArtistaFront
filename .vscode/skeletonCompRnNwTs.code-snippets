@@ -1,0 +1,27 @@
+{
+	"Create a new component skeleton for react-native nativewind typescript": {
+		"scope": "typescriptreact",
+		"prefix": "skeletonCompRnNwTs",
+		"body": [
+			"import React, { ReactElement } from 'react';",
+			"import { View } from 'react-native';",
+			"import { StyledText } from '../../components/StyledComponents';",
+			"",
+			"function ${1:ComponentName}(): ReactElement {",
+			"",
+			"    return (",
+			"        <View>",
+			"            <StyledText className=\"text-emerald-500\">",
+			"                Yop",
+			"            </StyledText>",
+			"        </View>",
+			"    );",
+			"}",
+			"",
+			"export default ${1:ComponentName};",
+			""
+		],
+		"description": "Create a new component skeleton for react-native nativewind typescript"
+	},
+}
+
