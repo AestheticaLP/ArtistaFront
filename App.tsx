@@ -5,7 +5,7 @@ import Profile from './app/screens/Profile';
 import Home from './app/screens/Home';
 import Messages from './app/screens/Messages/Messages';
 import { RootStackParamList } from './app/types/StackParamList';
-import BottomNavigator from './app/components/bottomNavigationBar./BottomNavigator';
+import BottomNavigator from './app/components/bottomNavigationBar/BottomNavigator';
 
 const Stack = createNativeStackNavigator<RootStackParamList>();
 
