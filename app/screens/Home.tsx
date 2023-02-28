@@ -4,7 +4,6 @@ import HomeContent from '../features/home/HomeContent';
 import HomeFooter from '../features/home/HomeFooter';
 import { StyledView } from '../components/StyledComponents';
 import strings from '../localized_strings/strings';
-const StyledView = styled(View);
 
 function Home(): ReactElement {
 	return (
