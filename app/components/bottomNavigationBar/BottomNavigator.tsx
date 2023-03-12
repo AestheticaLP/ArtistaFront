@@ -8,6 +8,7 @@ import Home from '../../screens/Home';
 import Profile from '../../screens/Profile';
 import Messages from '../../screens/Messages/Messages';
 import TabBar from './TabBar';
+import PostDetail from '../../screens/PostDetail';
 
 const BottomTabNavigator = createBottomTabNavigator();
 
@@ -34,6 +35,13 @@ function BottomNavigator(): ReactElement {
 			<BottomTabNavigator.Screen
 				name="Messages"
 				component={Messages}
+				options={{
+					//
+				}}
+			/>
+			<BottomTabNavigator.Screen
+				name="PostDetail"
+				component={PostDetail}
 				options={{
 					//
 				}}

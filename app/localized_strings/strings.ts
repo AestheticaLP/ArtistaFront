@@ -2,7 +2,7 @@
 import LocalizedStrings from 'react-native-localization';
 
 // eslint-disable-next-line no-unused-vars
-const strings = new LocalizedStrings({
+const localizedStringsGlobal = new LocalizedStrings({
 	// ENGLISH ------------------------------------------
 	en: {
 		// ONBOARDING
@@ -176,4 +176,4 @@ const strings = new LocalizedStrings({
 	},
 });
 
-export default strings;
+export default localizedStringsGlobal;
