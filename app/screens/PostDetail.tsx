@@ -5,32 +5,13 @@ import { ScrollView, StyleSheet, Text, View } from 'react-native';
 import PostDetailContent from '../features/postDetail/PostDetailContent';
 import PostDetailHeader from '../features/postDetail/PostDetailHeader';
 import PostDetailRelatedPosts from '../features/postDetail/PostDetailRelatedPosts';
-// import PostDetailRelatedPosts from '../features/postDetail/PostDetailRelatedPosts';
-import { Media, MediaType } from '../types/Media';
+import { Media } from '../types/Media';
 import { ContentWarning, Post } from '../types/Post';
 import { Tag, TagType } from '../types/Tag';
+import { customColors } from '../styles/CustomColors';
+import { MediaType } from '../enums/MediaType.enum';
 
 const StyledView = styled(View);
-const StyledText = styled(Text);
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    padding: 24,
-    backgroundColor: '#eaeaea', // TODO utiliser fichier colors
-  },
-  title: {
-    marginTop: 16,
-    paddingVertical: 8,
-    borderWidth: 4,
-    borderColor: '#20232a',
-    borderRadius: 6,
-    backgroundColor: '#61dafb',
-    color: '#20232a',
-    textAlign: 'center',
-    fontSize: 30,
-    fontWeight: 'bold',
-  },
-});
 
 function PostDetail(): ReactElement {
   const m: Media[] = [
