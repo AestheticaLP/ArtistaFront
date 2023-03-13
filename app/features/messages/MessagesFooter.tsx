@@ -1,6 +1,7 @@
 import { styled } from 'nativewind';
 import React, { ReactElement } from 'react';
 import { View, Text } from 'react-native';
+import MessageItemList from './components/MessagesItemList';
 
 const StyledText = styled(Text);
 
@@ -13,6 +14,7 @@ function MessagesFooter(props: MessagesFooterProps): ReactElement {
 
 	return (
         <View>
+             <MessageItemList />
             <StyledText className="text-blue-500">
                 {title}
             </StyledText>
