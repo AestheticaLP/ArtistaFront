@@ -1,3 +1,1 @@
-export const customColors = {
-    backgroundGray: '#efedee',
-};
+export const BACKGROUNDGRAY = '#efedee';

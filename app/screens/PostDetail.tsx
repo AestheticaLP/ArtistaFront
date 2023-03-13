@@ -8,7 +8,6 @@ import PostDetailRelatedPosts from '../features/postDetail/PostDetailRelatedPost
 import { Media } from '../types/Media';
 import { ContentWarning, Post } from '../types/Post';
 import { Tag, TagType } from '../types/Tag';
-import { customColors } from '../styles/CustomColors';
 import { MediaType } from '../enums/MediaType.enum';
 
 const StyledView = styled(View);
