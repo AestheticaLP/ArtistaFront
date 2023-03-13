@@ -1,20 +1,12 @@
 import React, { ReactElement } from 'react';
-import { View } from 'react-native';
-import { StyledText } from '../../components/StyledComponents';
+import { StyledView } from '../../components/StyledComponents';
+import MessagesList from './components/MessagesList';
 
-type MessagesContentProps = {
-    title: string;
-};
-
-function MessagesContent(props: MessagesContentProps): ReactElement {
-    const { title } = props;
-
+function MessagesContent(): ReactElement {
 	return (
-        <View>
-            <StyledText className="text-emerald-500">
-                {title}
-            </StyledText>
-        </View>
+        <StyledView>
+            <MessagesList />
+        </StyledView>
 	);
 }
 
