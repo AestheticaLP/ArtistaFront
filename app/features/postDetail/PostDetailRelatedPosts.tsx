@@ -1,20 +1,18 @@
 import React, { ReactElement } from 'react';
 import { FlatList, Linking, TouchableOpacity } from 'react-native';
 import { StyledImage, StyledView } from '../../components/StyledComponents';
-import TitleMedium from '../../components/TitleMedium';
+import TitleMedium from '../../components/Text/TitleMedium';
 import texts from '../../localized_strings/strings';
 
-type SinglePostPreviewProp = {
-    imageUrl: string;
-    redirectUrl: string;
-}
-
 type PostPreviewProps = {
-    postPreviews: Array<SinglePostPreviewProp>;
+    posts: {
+        imageUrl: string;
+        redirectUrl: string;
+    }[];
 }
 
 function PostDetailRelatedPosts(props: PostPreviewProps): ReactElement {
-    const { postPreviews: posts } = props;
+    const { posts } = props;
 
     return (
         <StyledView className="py-1">

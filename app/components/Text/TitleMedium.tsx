@@ -1,7 +1,6 @@
-/* eslint-disable no-nested-ternary */
 import React, { ReactElement } from 'react';
 
-import { StyledText } from './StyledComponents';
+import { StyledText } from '../StyledComponents';
 
 type TitleProps = {
     text: string;

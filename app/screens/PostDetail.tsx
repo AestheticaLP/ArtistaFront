@@ -16,7 +16,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     padding: 24,
-    backgroundColor: '#eaeaea',
+    backgroundColor: '#eaeaea', // TODO utiliser fichier colors
   },
   title: {
     marginTop: 16,
@@ -77,7 +77,7 @@ function PostDetail(): ReactElement {
           imageUrl=""
           description={desc}
         />
-        <PostDetailRelatedPosts postPreviews={[
+        <PostDetailRelatedPosts posts={[
           { imageUrl: 'https://assets1.ignimgs.com/2019/06/10/dead-cells---button-fin-1560125633132.jpg', redirectUrl: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ' },
           { imageUrl: 'https://gameah.fr/wp-content/uploads/2021/11/Outer-Wilds.jpeg', redirectUrl: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ' },
           { imageUrl: 'https://upload.wikimedia.org/wikipedia/en/6/6a/HyperLightDrifterBoxArt.png', redirectUrl: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ' },
